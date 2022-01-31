@@ -7,7 +7,8 @@ Everything for 3D Printing
 **Creality Ender 3 v2**
 * Board: 4.2.2
 
-* Bed Leveling: ANT CLabs BLTouch
+* Bed Leveling: ANT CLabs BLTouch w/[3DP mount v3](https://www.thingiverse.com/thing:4462870)
+* * X Offset: -42.0 Y Offset: -10.0
 * Firmware: Marlin 2.0.1 ([Jyers UI](https://github.com/Jyers/Marlin/releases))
 * * [YT Installation](https://www.youtube.com/watch?v=o1zXYwgIPLY&t=422s)
 * * Note the comment about flashing: 
