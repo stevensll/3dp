@@ -1,0 +1,6 @@
+# 2/26
+
+Tried printing team shipping element (cone shape) and printer kept stopping at a random layer (would stop the current layer, home, then propmt the failed print recovery menu). 
+4 failed prints. 
+
+## Attempt: Reformat SD card, new Cura session + updated Cura
