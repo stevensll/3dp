@@ -17,3 +17,15 @@ Everything for 3D Printing
 * [Flow Rate](http://www.desiquintans.com/flowrate) 
 * Settings:
 * * PLA: B 60 N 200
+
+
+# Changelog
+
+As of 7/22/22:
+
+* No longer running OctoPi
+* Using klipper via Fluiddpi
+
+https://www.youtube.com/watch?v=gfZ9Lbyh8qU&list=PL7zrGeKp_8CRmVTuBaUQcHKlS9bJRU6vT
+
+probably need to replace shitty bltouch wire.
